@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CarolineDelva
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science Project
+- 👀 I’m interested in Data Engineer
+- 🌱 I’m currently learning Data Engineer
+- 💞️ I’m looking to collaborate on Data Engineer Project
 - 📫 How to reach me Github 
 
 <!---
